@@ -1,0 +1,301 @@
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\MaterialSkin.dll
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.LogIn.resources
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\MetroFramework.Design.dll
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\MetroFramework.dll
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\MetroFramework.Fonts.dll
+c:\users\jepoy\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.MainForm.resources
+C:\Users\JEPOY\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.HomeForm.resources
+C:\Users\JEPOY\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentList.resources
+C:\Users\JEPOY\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentInformationForm.resources
+C:\Users\JEPOY\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.AdministratorForm.resources
+C:\Users\JEPOY\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewAdminForm.resources
+C:\Users\JEPOY\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.CourseForm.resources
+C:\Users\JEPOY\documents\visual studio 2012\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewCourseForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\MaterialSkin.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\MetroFramework.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.AdministratorForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.CourseForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.LogIn.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.HomeForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.MainForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewAdminForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewCourseForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentInformationForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentList.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\RdlCompile.cache
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\RdlCompile.compiled
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.ReportForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.RecordForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.PrintRecordForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\MaterialSkin.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.AdministratorForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.CourseForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.LogIn.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.HomeForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.MainForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewAdminForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewCourseForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.PrintRecordForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.RecordForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.ReportForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentInformationForm.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentList.resources
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\RdlCompile.cache
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\RdlCompile.compiled
+C:\Users\JEPOY\Desktop\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.AboutUs.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3)\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3) - Copy\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3) - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3) - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (3) - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\MaterialSkin.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.AboutUs.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.AdministratorForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.CourseForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.LogIn.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.HomeForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.MainForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewAdminForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewCourseForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.PrintRecordForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.RecordForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.ReportForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentInformationForm.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentList.resources
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\RdlCompile.cache
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\StudentInformationSystem - Copy1 - Copy (4) - Copy - Copy\Student Information System\StudentInformationSystem\obj\Debug\RdlCompile.compiled
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\SIS - Updated\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\SIS - Updated\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\SIS - Updated\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\BackUp_StudentInformationSystem\SIS - Updated\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\MaterialSkin.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.AboutUs.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.AdministratorForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.CourseForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.LogIn.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.HomeForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.MainForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewAdminForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewCourseForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.PrintRecordForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.RecordForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.ReportForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentInformationForm.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentList.resources
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\RdlCompile.cache
+C:\Users\JEPOY\Videos\Student Information System\StudentInformationSystem\obj\Debug\RdlCompile.compiled
+C:\Users\JEPOY\Videos\Student Information System - Copy (2)\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Videos\Student Information System - Copy (2)\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Videos\Student Information System - Copy (2)\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Videos\Student Information System - Copy (2)\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\StudentInformationSystem.xml
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\MaterialSkin.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\MetroFramework.Design.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\MetroFramework.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.AboutUs.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.AdministratorForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.CourseForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.LogIn.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.HomeForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.MainForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.Resources.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewAdminForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.NewCourseForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.PrintRecordForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.RecordForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.ReportForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentInformationForm.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.StudentList.resources
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\RdlCompile.cache
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\RdlCompile.compiled
+C:\Users\JEPOY\Desktop\Student Information System - Copy (2) - Copy\StudentInformationSystem\obj\Debug\StudentInformationSystem.ForgotPForm.resources
