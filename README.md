@@ -5,4 +5,3 @@ A simple student information system created at vb.net
 - must download RDLC
 - Database and its dependencies is in the bin folder
 - atleast 4.5 .NET Framework
-- portable
